@@ -252,7 +252,7 @@ class _DetailsPageState extends State<DetailsPage> {
                   Text(
                     //TODO: change description
                     //! EXAMPLE DESCRIPTION
-                    "Hi! I am Martin Gogołowicz - Flutter developer from Poland. This is example item description. Please edit it.\nFollow me on LinkedIn: Martin Gogołowicz\nFollow me on GitHub: MonsieurZbanowanYY",
+                    "The project description which talks about the project specifications and more.",
                     style: GoogleFonts.poppins(
                       color: defaultColor,
                       fontSize: size.width * 0.04,
